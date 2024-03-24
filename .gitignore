@@ -16,6 +16,7 @@ data/**
 
 # maintein the models
 !data/06_models/**
+!data/05_model_input/**
 
 # also keep all .gitkeep files
 !.gitkeep
