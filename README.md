@@ -20,4 +20,6 @@ Download the `train` and `labels` data from [Kaggle](https://www.kaggle.com/c/do
 
 ## How to run on a notebook
 
-You can run the latest notebook v.2.0-compare_results.ipynb to view the final project, the other notebooks are earlier versions.
+You can run the latest notebook v.2.1-fine_tunning.ipynb to view the final project, the other notebooks are earlier versions.
+
+> Note: if you want to skip the training step, load the model into the cell just below the training.
